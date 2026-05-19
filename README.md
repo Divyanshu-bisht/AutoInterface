@@ -1,5 +1,16 @@
 # 🤖AutoInterface — Autonomous Procedural UI Builder
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Procedural UI](https://img.shields.io/badge/Procedural_UI-6A5ACD?style=for-the-badge)
+![Dynamic Rendering](https://img.shields.io/badge/Dynamic_Rendering-FF6B6B?style=for-the-badge)
+![AI Inspired](https://img.shields.io/badge/AI_Inspired-7B61FF?style=for-the-badge)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-0A192F?style=for-the-badge)
+![Frontend Architecture](https://img.shields.io/badge/Frontend_Architecture-2563EB?style=for-the-badge)
+![Lighthouse Optimized](https://img.shields.io/badge/Lighthouse_Optimized-00C853?style=for-the-badge&logo=lighthouse&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
+
 > An experimental autonomous UI generation system that simulates how an AI might progressively construct a modern web interface in real time.
 
 Built as the final project for CS50, AutoInterface dynamically renders layouts, orchestrates procedural UI components, and visualizes interface construction through animated frontend workflows.
