@@ -1,17 +1,22 @@
-# AutoInterface — Autonomous Procedural UI Builder
+# 🤖AutoInterface — Autonomous Procedural UI Builder
 
-An experimental autonomous UI generation system that simulates how an AI might progressively construct a modern web interface in real time. Built as the final project for CS50, AutoInterface dynamically renders layouts, orchestrates procedural components, and visualizes interface construction through animated frontend workflows.
+> An experimental autonomous UI generation system that simulates how an AI might progressively construct a modern web interface in real time.
+
+Built as the final project for CS50, AutoInterface dynamically renders layouts, orchestrates procedural UI components, and visualizes interface construction through animated frontend workflows.
+
+---
 
 ## Live Demo
-https://divyanshu-bisht.github.io/AutoInterface/
+
+🔗 https://divyanshu-bisht.github.io/AutoInterface/
 
 ---
 
 # Overview
 
-AutoInterface is a procedural frontend rendering experiment designed to emulate AI-assisted website generation. Instead of loading a static layout, the application progressively constructs the UI step-by-step using dynamic DOM orchestration, modular rendering logic, and asynchronous animation sequencing.
+AutoInterface is a procedural frontend rendering experiment designed to emulate AI-assisted website generation. Instead of loading a static layout, the application progressively constructs the interface step-by-step using dynamic DOM orchestration, modular rendering logic, and asynchronous animation sequencing.
 
-The project focuses on:
+### Core Focus Areas
 - Procedural UI composition
 - Dynamic layout generation
 - Real-time rendering simulation
@@ -22,34 +27,34 @@ The project focuses on:
 
 # Features
 
-## Procedural UI Generation
-Dynamically creates and assembles interface sections using reusable rendering presets and modular layout workflows.
+### Procedural UI Generation
+- Dynamically generates interface sections using reusable rendering presets and modular layout workflows.
 
-## AI-Inspired Rendering Simulation
-Simulates how an autonomous AI system could progressively build a web interface through staged construction sequences.
+### AI-Inspired Rendering Simulation
+- Simulates how an autonomous AI system could progressively construct a website through staged rendering sequences.
 
-## Real-Time Interface Construction
-Implements asynchronous rendering logic and timed DOM updates to visualize live interface generation.
+### Real-Time Interface Construction
+- Implements asynchronous rendering logic and timed DOM updates to visualize live UI generation.
 
-## Responsive Frontend Architecture
-Designed with scalable layout orchestration and adaptive rendering behavior for multiple screen sizes.
+### Responsive Frontend Architecture
+- Designed with scalable layout orchestration and adaptive rendering behavior across different screen sizes.
 
-## Interactive Console System
-Includes a simulated developer-style console that displays procedural build operations during runtime.
+### Interactive Console System
+- Includes a simulated developer-style console that displays procedural build operations during runtime.
 
-## Optimized Frontend Performance
-Engineered with semantic HTML structure, accessibility improvements, and performance-focused rendering strategies.
+### Optimized Frontend Performance
+- Engineered with semantic HTML structure, accessibility improvements, and performance-focused rendering strategies.
 
 ---
 
 # Tech Stack
 
-## Frontend
+### Frontend
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## Concepts & Architecture
+### Concepts & Architecture
 - Procedural UI Systems
 - Dynamic DOM Manipulation
 - Modular Rendering Pipelines
@@ -85,6 +90,7 @@ AutoInterface/
 # How It Works
 
 The application procedurally generates UI sections by:
+
 1. Initializing rendering workflows
 2. Creating interface containers dynamically
 3. Injecting modular UI elements
@@ -98,6 +104,7 @@ The result is a system that visually resembles an AI constructing a web interfac
 # Learning Outcomes
 
 Through this project, I explored:
+
 - Advanced frontend rendering workflows
 - Dynamic UI orchestration techniques
 - Asynchronous JavaScript execution
@@ -110,6 +117,7 @@ Through this project, I explored:
 # Future Improvements
 
 Potential future enhancements include:
+
 - AI-generated layout logic using LLM APIs
 - Component graph visualization
 - User-driven procedural generation controls
@@ -142,4 +150,4 @@ Run locally using:
 
 # Author
 
-Developed by Divyanshu Bisht as a final project submission for CS50.
+Developed by **Divyanshu Bisht** as a final project submission for CS50.
